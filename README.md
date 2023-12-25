@@ -64,6 +64,6 @@ StartCoroutine(PostRequestFormData(ApiUrlFormData));
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or have a suggestion, please [open an issue](https://github.com/riken96/unity-api-demo/issues).
+Contributions are welcome! If you find a bug or have a suggestion, please [open an issue](https://github.com/riken96/API_Unity/issues).
 
 
