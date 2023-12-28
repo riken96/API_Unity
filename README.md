@@ -12,7 +12,7 @@ This Unity project demonstrates how to make API calls using UnityWebRequest. The
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/unity-api-demo.git
+git clone https://github.com/riken96/API_Unity.git
 cd unity-api-demo
 ```
 
